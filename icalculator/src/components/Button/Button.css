@@ -20,7 +20,6 @@
   width: 250px;
   grid-column: 1 / span 2;
   border-radius: 57.5px;
-  position: relative;
   justify-content: flex-start;
   padding-left: 43px;
 }

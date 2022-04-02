@@ -16,7 +16,7 @@ const App = () => {
 
   const handleButtonPress = content => () => {
     const num = parseFloat(value);
-
+    // rest   
     if (content === "AC") {
       setValue("0");
       setMemory(null);
